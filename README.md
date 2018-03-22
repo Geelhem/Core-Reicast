@@ -1,0 +1,2 @@
+# Core-Reicast
+Sega Dreamcast
